@@ -3,5 +3,4 @@ export default class Settings {
     width: 600,
     height: 400
   }
-
 }
